@@ -850,6 +850,14 @@ video {
   --tw-bg-opacity: 0.8;
 }
 
+.bg-opacity-90 {
+  --tw-bg-opacity: 0.9;
+}
+
+.bg-opacity-100 {
+  --tw-bg-opacity: 1;
+}
+
 .p-8 {
   padding: 2rem;
 }
